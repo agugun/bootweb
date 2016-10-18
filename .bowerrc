@@ -1,0 +1,6 @@
+{
+  "registry": "http://bower.herokuapp.com",
+  "proxy": "http://172.31.49.159:8081",
+  "https-proxy": "http://172.31.49.159:8081",
+  "strict-ssl": false
+}
