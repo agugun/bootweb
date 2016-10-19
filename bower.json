@@ -12,13 +12,13 @@
   "homepage": "index.html",
   "private": true,
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
+      "src/**",
+      "component.json",
+      "package.json",
+      "bower.json"
+      ],
   "dependencies": {
-    "webcomponentsjs": "^0.7.22"
-  }
+    "materialize": "^0.97.7"
+  },
+  "directory" : "src/main/webapp/bower_components"
 }
